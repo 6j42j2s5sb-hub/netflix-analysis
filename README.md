@@ -1,6 +1,3 @@
-# netflix-analysis
-Data Analysis project based on the Netflix Movies &amp; TV Shows dataset (Kaggle).
-
 Questo progetto analizza il dataset Netflix Movies and TV Shows (Kaggle) per comprendere:
 
 la composizione del catalogo (Film vs Serie TV)
@@ -39,9 +36,11 @@ rating
 
 duration
 
-listed_in (generi)
+genres
 
 description
+
+year_added (creata durante l’analisi)
 
 🛠️ Tecnologie utilizzate
 Python
@@ -76,24 +75,20 @@ trend dei contenuti aggiunti nel tempo
 
 paesi più rappresentati
 
-generi più frequenti
+analisi dei generi (colonna genres)
 
-analisi durata contenuti
-
-4. Analisi avanzata
-distribuzione rating
+distribuzione dei rating
 
 top directors
 
-confronto tra paesi
+confronto tra paesi (USA, India, UK)
 
-heatmap correlazioni
-
-5. Insight finali
+4. Insight finali
 Sintesi dei risultati ottenuti e considerazioni sul catalogo Netflix.
 
-🖼️ Risultati (grafici)
+
 I grafici generati durante l’analisi sono salvati nella cartella:
+images/
 
 Seaborn
 
