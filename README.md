@@ -93,3 +93,22 @@ images/
 Seaborn
 
 Jupyter Notebook
+
+Repository cartella:
+netflix-analysis/
+│
+├── data/
+│   └── raw/
+│       └── NetFlix.csv
+│
+├── notebooks/
+│   └── netflix_analysis.ipynb
+│
+├── src/
+│   └── utils.py
+│
+├── images/
+│   └── (grafici salvati)
+│
+└── README.md
+
