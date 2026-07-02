@@ -107,6 +107,11 @@ netflix-analysis/
 ├── src/
 │   └── utils.py
 │
+|──powerbi/
+    └── Dashboard_netflix.pbix
+    └── RWADME_powerbi.md
+    └── dettaglio_titolo.png
+    └── overview.png
 
 
 Sezione PowerBi:
