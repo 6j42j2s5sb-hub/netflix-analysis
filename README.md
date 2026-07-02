@@ -107,8 +107,14 @@ netflix-analysis/
 ├── src/
 │   └── utils.py
 │
-├── images/
-│   └── (grafici salvati)
-│
+
+
+Sezione PowerBi:
+- KPI principali (Totale titoli, Movie, TV Show)
+- Grafico Movie vs TV Show
+- Grafico titoli rilasciati per anno
+- Grafico titoli aggiunti per anno
+- Slicer: Paese, Rating, Anno aggiunta, Genere
+
 └── README.md
 
