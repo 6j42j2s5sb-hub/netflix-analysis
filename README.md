@@ -14,7 +14,7 @@ i registi più presenti sulla piattaforma
 
 L’obiettivo è mostrare competenze da Data Analyst attraverso pulizia dei dati, EDA, visualizzazioni e interpretazione dei risultati.
 
-📊 Dataset
+Dataset
 Fonte: Kaggle — Netflix Movies and TV Shows  
 Il dataset contiene oltre 8.000 titoli con informazioni su:
 
@@ -51,7 +51,7 @@ NumPy
 
 Matplotlib
 
-🔍 Analisi svolta
+Analisi svolta
 1. Esplorazione iniziale
 caricamento dataset
 
