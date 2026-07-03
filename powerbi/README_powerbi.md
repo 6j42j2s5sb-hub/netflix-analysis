@@ -1,4 +1,4 @@
-# 📊 Power BI Report
+# Power BI Report
 
 ## Pagina 1 — Overview
 Contiene KPI, grafici principali e slicer.
