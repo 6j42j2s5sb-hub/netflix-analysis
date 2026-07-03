@@ -42,7 +42,7 @@ description
 
 year_added (creata durante l’analisi)
 
-🛠️ Tecnologie utilizzate
+Tecnologie utilizzate
 Python
 
 Pandas
